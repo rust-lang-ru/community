@@ -7,18 +7,21 @@
    - [ ] указать дату и время
    - [ ] указать место
    - [ ] установить лимит посещения
+   - [ ] указать доклады
 - [ ] запостить в [@ruRust_msk][ruRust_msk] или в [@ruRust_spb][ruRust_spb]
-- [ ] запостить в [@rustlang_ru][rustlang_ru]
+- [ ] запостить и запиннить в [@rustlang_ru][rustlang_ru] и [@rust_beginners_ru][rust_beginners_ru]
 - [ ] пингануть @freecoder_xx или @fzzzr для постинга в соцсети
 - [ ] отправить в [twir]. Если нет доступа к календарю, запросить доступ в community-team@rust-lang.org
 - [ ] за неделю до митапа заново запостить ссылку
 - [ ] накануне митапа напомнить о нём в [@ruRust_msk][ruRust_msk] или в [@ruRust_spb][ruRust_spb]
+  и попросить людей освободить места, если они 100% не придут
 - [ ] провести митап
 - [ ] выложить отчёт о посещаемости/отзыв о митапе
 
 [ruRust_spb]:https://t.me/ruRust_spb
 [ruRust_msk]:https://t.me/ruRust_spb
 [rustlang_ru]:https://t.me/rustlang_ru
+[rust_beginners_ru]:https://t.me/rust_beginners_ru
 [spb_meetup]:https://www.meetup.com/spbrust/
 [msk_meetup]:https://www.meetup.com/Rust-%D0%B2-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5
 [twir]:https://calendar.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc@group.calendar.google.com
